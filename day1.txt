@@ -1,0 +1,193 @@
+Missing Value
+
+import java.util.Scanner;
+public class Main{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[]arr = new int[n-1];
+        for(int i=0;i<n-1;i++){
+            arr[i] = sc.nextInt();
+        }
+        
+        int find = n*(n+1)/2;
+        int sum = 0;
+        for(int i=0;i<arr.length;i++){
+            sum = sum+arr[i];
+        }
+        int mis = find-sum;
+        System.out.println(mis);
+    }
+}
+
+//first we get the size of the array 5
+//after that give the condition get array element 5-1; so we only get 4 elements from the user
+//then using the formula find the total sum of the elements using the n value
+//declare the sum = 0;
+// using the for loop to  find the sum value;
+// the iteration is {1 2 3 5}
+//    sum + arr[i]
+//     0 + 1 = 1
+//     1 + 2 = 3
+//     3 + 3 = 6
+//     6 +  5 = 11
+//  the total sum value is 11 and formula value is 15 then subtract the 11-15 we get the missing number  4  
+
+Two sum Using two pointers
+
+import java.util.Scanner;
+import java.util.Arrays;
+public class Sum{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] num = new int[n];
+        for(int i=0;i<n;i++){
+            num[i] = sc.nextInt();
+        }
+        int target = sc.nextInt();
+        Arrays.sort(num);
+        int left = 0;
+        int right = num.length-1;
+        while(left<right){
+            int sum = num[left]+num[right];
+            if(sum==target){
+                System.out.println(left + " and " + right);
+                return;
+            }else if(sum<target){
+                left++;
+            }else{
+                right--;
+            }
+        }
+        System.out.println("Not found");
+
+    }
+}  
+
+
+Maximum and Minimum element:
+
+import java.util.Scanner;
+public class Main{
+    public static void main (String[] args){
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+        for(int i=0;i<n;i++){
+            arr[i]= sc.nextInt();
+        }
+        int max = arr[0];
+        int min = arr[0];
+        for(int i=1;i<n;i++){
+            if(arr[i]>max){
+                 max = arr[i];
+            }
+           if(arr[i]<min){
+               min = arr[i];
+           }
+        }
+        System.out.println(max);
+        System.out.println(min);
+        sc.close();
+    
+    }
+}
+
+
+Aptitude(Percentage)
+
+Question 1
+A number increased by 20% becomes 120.
+Find the original number.
+
+Solution:
+Given:20%,120
+take original value is x
+20% of x = 120
+20/100*x=120=1/5x=120
+x+1/5x = 120
+5x+x/5=120=6x/5=120
+6x = 120*5 = 600
+x = 600/6 = 100  
+
+Question 2
+If the price of a laptop increases from ₹50,000 to ₹60,000,
+what is the percentage increase?
+
+Solution:
+Laptop price increases from ₹50,000 to ₹60,000
+percentage = ?
+=New value - Old value/Old value
+= 60,000-50,000/50,000
+= 10,000/50,000 = 1/5 = 0.2 * 100
+=20%
+
+Question 3
+A student scored 72 out of 90 in an exam.
+Find the percentage score.
+
+Solution:
+A student scored 72 out of 90 in an exam
+percentage = ?
+72/90*100=80%
+
+
+Question 4
+The population of a town increases from 50,000 to 60,000.
+Find the percentage increase.
+
+Solution:
+
+increases population from 50,000 to 60,000
+=60,000-50,000/50,000
+= 10,000/50,000
+=1/5 = 0.2*100 = 20%
+
+Question 5
+A shirt originally costs ₹800.
+After a 25% discount, what is the final price?
+
+Solution:
+Original cost = 800
+After discount of 25%,what is the price?
+=25/100*800 = 200
+=800-200
+=600
+
+
+
+VERBAL ABILITY
+
+1. What is the main idea of the passage?
+The passage explains how the technology is rapidly increases linke AI,Meta,Machine Learninig etc.
+2. Which technologies are mentioned in the passage?
+Artificial Intelligence,
+Machine Learning, and Automation
+3. Why are companies relying on data-driven decisions?
+Businesses now depend heavily on data-driven decision making.
+
+Grammar Correction
+
+1. She don't understand the problem.
+She doesn't understand the problem
+
+2. He have completed the task.
+He has completed the task.
+
+3. They was going to the meeting.
+They were going to the meeting.
+
+
+COMMUNICATION PRACTICE
+
+My name is Sabarna J.
+I am currently pursuing BE-CSE(Cyber Security) at Muthayammal Engineering college.
+I am interested in software development and problem solving.
+I have worked on projects like Online voting System and Employment directory.
+My goal is to become a software engineer in a product-based company.
+
+
+
+
+
