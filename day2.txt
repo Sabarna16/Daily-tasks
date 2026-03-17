@@ -1,0 +1,101 @@
+APTITUDE (Profit & Loss)
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+
+Solution:
+Give: cost price = 400,sellig price = 480
+profit = sp-cp
+       = 480-40
+       = 80
+profit percentage = sp-cp/cp*100
+                  = 80/400*100
+             Ans  = 20%
+
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+
+Solution:
+Given: cp = 1500,sp = 1200 
+Loss = cp-sp
+     = 1500-1200
+     = 300
+Loss percentage = cp-sp/cp*100
+                = 300/1500*100
+          Ans   = 20%
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+
+Solution:
+Given:  Marked price = 100 + 20%
+                     = 120
+        Discount     = 10%
+                   D = 10/100*120
+                     = 12
+ selling price = costprice-Discount
+               = 120-12
+            sp = 108
+         profit = sp-cp
+                = 108-100
+              p = 8
+  profit percentage = p*100/cp
+                    = 8*100/100
+                    = 8%
+
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+
+Solution:
+Given:cost of 5 pens if 100
+sp=?
+profit=25%
+cp=10/5=20
+profit+100/100=sp/cp
+25+100/100=x/20=25%
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+
+Solution:
+Given:sp=900,loss=10%,cp=?
+loss-100/100=sp/cp
+10-100/100=900/x
+x=100*10
+x=1000
+
+ VERBAL ABILITY
+
+Questions
+
+1. What technologies are influencing software development?
+Cloud computing and artificial intelligence are the influencing technologies in software development.
+
+2. Why are scalable systems important?
+Companies are now building scalable systems that can
+handle millions of users simultaneously.
+
+
+3. What does "scalable" mean in software systems?
+Scalable means that can be handle millions of users simultaneously.
+
+Grammar Correction
+
+1. He don't like programming.
+ He doesn't like programming.
+2. She have submitted the assignment.
+ She has submitted the assignment.
+3. They was discussing the project. 
+They were discussing the project.
+
+Explain Your Final Year Project
+project title is "Student management System".
+problem statement is Many educational institutions still rely on paper-based records or scattered
+ Excel sheets to manage student information. This leads to data redundancy, high risk of physical damage.
+ The technologies are React,Spring boot,Mysql.I am facing the challenges are how to implement the spring boot in this
+project.
+              
