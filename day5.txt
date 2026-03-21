@@ -1,0 +1,102 @@
+APTITUDE (Speed, Time & Distance)
+
+Question 1
+A train travels 60 km in 1 hour. What is its speed in m/s?
+
+Solution:
+train travels 60 km in 1 hour
+speed = ?
+60*5/18=300/18
+=16.67m/s
+
+Question 2
+A car travels at 40 km/h for 2 hours and 60 km/h for next 2 hours.
+Find average speed.
+
+Solution:
+Dis 1 = 40km/h for 2 hours
+Dis 2 = 60km/h for 2hours
+Average speed = total distance/total time
+              = 80+120/2+2=200/4=50
+
+Question 3
+Two trains moving in opposite directions at 50 km/h and 70 km/h.
+Find relative speed.
+
+Solution:
+trains moving opposite directions at 50km/h and 70km/h
+50+70 = 120km/h
+
+Question 4
+A person walks at 5 km/h and runs at 10 km/h.
+Find time taken to cover 15 km if half distance is walked and half is run.
+
+Solution:
+total distance = 15km
+half distance = 7.5km
+walking time = 7.5/5=1.5hour
+running time = 7.5/10=0.75hours
+time = 1.5+0.75=2.25hours
+
+Question 5
+If a train crosses a pole in 10 seconds and its length is 100 meters,
+find its speed.
+
+Solution:
+speed = distance/time
+      = 100/10 = 10m/s
+
+
+VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Algorithms play a crucial role in optimizing system performance.
+Efficient algorithms reduce execution time and resource consumption.
+
+Questions
+
+1. Why are algorithms important?
+Algorithms play a crucial role in optimizing system performance.
+
+2. What happens if inefficient algorithms are used?
+inefficient algorithms takes a longer execution times and higher resource consumption.
+
+3. What is optimization in computing?
+ it is the process of modifying a system to make it work more efficiently.
+
+Grammar Correction
+
+1. He have been working here since 2 years.
+He has been working here for 2 years.
+
+2. She did not wrote the code.
+She did not write the code.
+
+3. They is preparing for interviews.
+They are preparing for interviews.
+
+       
+ COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a recent technical topic you learned
+
+Include:
+- Concept explanation
+- Example
+- Real-world use
+I want to talk about the 'brain' of every computer: the Operating System, or OS.
+an Operating System is a piece of software that acts as an interface between the computer hardware and the user.
+It provides a basic for application programs and acts as an intermediary between computer user and coputer hardware.
+The main goal:
+convenience
+efficiency 
+both
+Example:windows,Linux,max OS,mac OSX,Android
+The real world example is
+Windows and macOS on our laptops.
+Android and iOS on our phones.
+Even Linux running the servers that power the entire internet.
+       
