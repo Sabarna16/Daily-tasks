@@ -1,0 +1,91 @@
+APTITUDE (Permutation & Combination)
+
+Question 1
+In how many ways can 3 students be selected from 7 students?
+Solution:
+3 students select from 7 students
+nCr = n!/r!(n-r)
+    =7*6*5/3*2*1
+    = 35 ways
+
+Question 2
+How many 2-digit numbers can be formed using digits 1, 2, 3, 4 without repetition?
+Solution:
+1,2,3,4 form 2-digit numbers without repetition
+4*3=12
+
+Question 3
+In how many ways can a captain and vice-captain be chosen from 6 players?
+Solution:
+choose captain and vice-captain from 6 players
+6P2 = 6*5 = 30ways
+
+Question 4
+How many different arrangements can be made using the letters of the word MATH?
+Solution:
+MATH
+n!
+4!=4*3*2*1=24
+
+Question 5
+A committee of 4 members is to be formed from 8 people. In how many ways can it be formed?
+Solution:
+A committee of 4 members is to be formed from 8 people
+8C4 = 8*7*6*5/4*3*2*1
+    = 70
+
+
+VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Databases are at the heart of modern applications. Efficient storage,
+retrieval, and management of data are essential for building scalable
+software products. Companies rely on well-designed databases to ensure
+data consistency and performance.
+
+Questions
+
+1. Why are databases important in modern applications?
+Databases are at the heart of modern applications. Efficient storage,
+retrieval, and management of data are essential for building scalable
+software products.
+
+2. What does data consistency mean?
+It means ensuring that data remains accurate, reliable, and uniform across the entire system.
+
+3. Why do companies need well-designed databases?
+Companies rely on well-designed databases to ensure
+data consistency and performance.
+
+
+Grammar Correction
+
+1. She do not understand SQL joins.
+She does not understand SQL joins.
+
+2. He were explaining the database schema.
+He was explaining the database schema.
+
+3. They has written the program successfully.
+They have written the program successfully.
+ 
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain one challenge you faced while learning coding
+
+Include:
+- What was the challenge?
+- Why was it difficult?
+- How did you overcome it?
+- What did you learn from it?
+
+
+When I started learning to code, my biggest problem was logic.
+I would read a question, but it took me a long time to understand how to solve it.
+It was difficult because I tried to solve everything directly on the screen. 
+I would look at the blank editor and feel stuck. 
+I solved this problem by stepping away from the computer. I started using a pen and paper.
+Now, I always use a pen and paper first. It saves me a lot of time and prevents many mistakes.
