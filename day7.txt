@@ -1,0 +1,91 @@
+ APTITUDE (Probability)
+
+Question 1
+What is the probability of getting a head when tossing a coin?
+Solution:
+Total outcomes {Head, Tail} = 2
+Favorable = 1 
+Probability =1/2
+
+Question 2
+What is the probability of getting a number greater than 4 when rolling a dice?
+Solution:
+possible numbers = {1,2,3,4,5,6)
+Probability = 2/6=1/3
+
+Question 3
+A bag contains 3 red balls and 2 blue balls.
+Find probability of picking a red ball.
+Solution:
+Red=3,blue= 2
+total=3+2=5
+probability=3/5
+
+Question 4
+If two coins are tossed, what is probability of getting two heads?
+Solution:
+Total outcomes = 4 ({HH, HT, TH, TT})
+Favorable (Two Heads) = 1 ({HH})
+Probability = 1/4
+
+Question 5
+Probability of selecting a vowel from the word ENGINEER.
+Solution:
+word = ENGINEER
+total letters = 8
+vowel = 4
+probability = 4/8=1/2
+
+
+VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Operating systems manage hardware resources and provide services for computer programs.
+Efficient OS design ensures better performance, memory management, and process scheduling.
+
+Questions
+
+1. What is the main role of an operating system?
+Operating systems manage hardware resources and provide services for computer programs.
+
+2. Why is memory management important?
+It is important for ensuring efficient OS design and better overall performance.
+
+3. What is process scheduling?
+It is a key component of efficient OS design that helps manage how tasks are executed to improve performance.
+
+Grammar Correction
+
+1. He don’t know operating systems.
+He doesn’t know operating systems.
+
+2. She were learning data structures.
+She was learning data structures.
+
+3. They has solved the problem.
+They have solved the problem.
+
+
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+Everything starts when you type a web address (like www.google.com) into your 
+browser and hit Enter. This address is called a URL.
+However, computers don’t understand names; they only understand numbers, which we call IP Addresses.
+DNS (Domain Name System)
+Because you don’t want to memorize long strings of numbers (like 142.250.190.46), your computer uses the DNS.
+Your browser sends a quick message to a DNS Server, which acts like a giant digital phonebook.
+The DNS looks up "google.com" and sends back the exact IP address of the computer where that website lives.
+Now that your browser has the "address," it sends a request across a massive network of cables to a Server.
+Once the server receives your request, it approves it and sends the website back in the form of Data Packets.
+Finally, your browser receives all those little "bricks" and puts them back together perfectly on your screen.
