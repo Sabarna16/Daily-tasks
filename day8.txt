@@ -1,0 +1,93 @@
+APTITUDE (Mixtures & Averages)
+
+Question 1
+The average of 5 numbers is 20. Find the total sum.
+Solution:
+Total sum = Average/number of items
+          = 20*5=100
+
+Question 2
+The average of 10 numbers is 15. If one number is removed, the average becomes 14. Find the removed number.
+Solution:
+total sum = 10*15=150
+If one number is removed then
+total sum = 9*14=126
+removed number = 150-126 = 24
+
+Question 3
+A container has milk and water in ratio 3:2. If 10 liters of water is added, ratio becomes 3:4. Find initial quantity.
+Solution:
+milk = 3x,water = 2x
+after added 10 lit of water
+milk = 3x, water = 4x
+3x/2x+10=3/4
+4(3x)=3(2x+10)
+12x=6x+30
+6x=30
+x=5
+3x+2x=5x=5*5=25lit
+
+Question 4
+Find average of first 20 natural numbers.
+Solution:
+n+1/2
+20+1/2=21/2=10.5
+
+Question 5
+The average age of 5 students is 18. A new student joins and average becomes 19. Find age of new student.
+The average age of 5*18=90
+The new student joins after 6*19=114
+age of new student = 114-90=24
+
+
+ VERBAL ABILITY
+
+Reading Passage
+
+Data structures help organize and store data efficiently so that operations
+like searching, inserting, and deleting can be performed quickly.
+Choosing the correct data structure improves performance significantly.
+
+Questions
+
+1. Why are data structures important?
+Data structures help organize and store data efficiently so that operations
+like searching, inserting, and deleting can be performed quickly.
+
+2. Name some operations performed on data.
+ Searching, inserting, and deleting.
+
+3. How does choosing the right data structure help performance?
+Choosing the correct data structure improves performance significantly.
+
+
+Grammar Correction
+
+1. He don’t understand data structures.
+He doesn’t understand data structures.
+
+2. She have completed the assignment.
+She has completed the assignment.
+
+3. They was working on the project.
+They were working on the project.
+
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain your favorite programming language
+
+Include:
+- Why you like it
+- Where it is used
+- Features
+- Example project
+
+
+I like HTML and CSS because I can add images and create interactive webpages. 
+I really enjoyed learning them by building small projects, which made the whole process fun and engaging.
+Compared to other programming languages, I found HTML and CSS much easier to understand. 
+It has a very simple and user-friendly syntax.
+It provides the "skeleton" or basic structure of a webpage.
+You can easily add images, videos, and audio.
