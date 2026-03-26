@@ -1,0 +1,94 @@
+ APTITUDE (Time & Work)
+
+Question 1
+A can complete a work in 10 days and B in 15 days.
+How many days will they take together?
+Solution:
+A work = 10 days, B work = 15 days
+A+B=1/10+1/15=(3+2)/30=5/30=6days
+
+Question 2
+A alone can do a work in 12 days.
+After working for 4 days, B joins and work finishes in 4 more days.
+Find B's efficiency.
+Solution:
+A work in 12 days
+Work done by A 8*1/12=2/3
+work done by B 1-2/3=1/3
+
+Question 3
+If 5 people can complete a work in 20 days,
+how many people are needed to complete the work in 10 days?
+Solution:
+5 people complete a work in 20 days
+5*20 = 100
+100/10=10people
+
+Question 4
+A is twice as efficient as B.
+If B takes 12 days to complete work, how many days will A take?
+Solution:
+B take  12 days
+A take  as 12/2= 6days
+
+Question 5
+Pipe A fills a tank in 6 hours and Pipe B fills in 8 hours.
+How long will both take together?
+Solution:
+pipe A = 1/6
+pipe B = 1/8
+both A+B = 1/6+1/8= 7/24
+
+
+VERBAL ABILITY
+
+Reading Passage
+
+Algorithms are step-by-step procedures used to solve problems efficiently.
+Good algorithms reduce time complexity and memory usage.
+Efficient algorithms are very important in software development.
+
+Questions
+
+1. What is an algorithm?
+Algorithms are step-by-step procedures used to solve problems efficiently.
+Good algorithms reduce time complexity and memory usage.
+
+2. Why are efficient algorithms important?
+Efficient algorithms are very important in software development.
+
+
+3. What do algorithms help 
+Good algorithms reduce time complexity and memory usage.
+
+Grammar Correction
+
+1. She don’t like programming.
+She doesn’t like programming.
+
+2. He have written the code.
+He has written the code.
+
+3. They is working on algorithms.
+They are working on algorithms.
+
+
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain what happens when you run a program
+
+Include:
+- Compilation / Interpretation
+- Memory allocation
+- Execution
+- Output
+
+When you run a program,
+a compiler or interpreter first translates your code
+into machine-readable instructions. The Operating System then 
+loads these instructions into RAM (Memory Allocation) and assigns a 
+CPU to execute them step-by-step. Finally, the CPU processes the data and 
+sends the results to your screen as Output.
+
