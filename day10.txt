@@ -1,0 +1,87 @@
+
+
+APTITUDE (Speed, Time & Distance)
+
+Question 1
+A car travels 60 km in 1 hour. What is the speed?
+Solution:
+Distance = 60km,time = 1 hour,speed = ?
+speed = distance/time=60/1=60km/hr
+
+Question 2
+A train travels at 50 km/hr. How long will it take to travel 150 km?
+Solution:
+Distance = 150km,speed = 50km/hr
+time = distance/speed=150/50=3hrs
+
+
+Question 3
+If a person walks at 5 km/hr, how far will they walk in 3 hours?
+Solution:
+speed = 5km/hr
+time = 3hrs
+distance = speed*time = 5*3=15km
+
+Question 4
+Two trains move in opposite direction at 40 km/hr and 60 km/hr.
+Find relative speed.
+Solution:
+relative speed = v1+v2=40+60=100km/hr
+
+
+Question 5
+A car travels first half distance at 40 km/hr and second half at 60 km/hr.
+Find average speed.
+Solution:
+Average speed = 2v1v2/v+v2= 2*40*60/40+60=4800/100=48km/hr
+
+
+VERBAL ABILITY
+
+Reading Passage
+
+Binary search is an efficient searching algorithm that works on sorted arrays.
+It repeatedly divides the search interval into half and reduces the search space.
+
+Questions
+
+1. Where does binary search work?
+Binary search is worked on sorted arrays.
+
+2. How does binary search reduce search space?
+It reduces the search space by repeatedly dividing the search interval into half.
+
+3. Is binary search faster than linear search?
+Yes,binary search is faster than linear search.
+
+Grammar Correction
+
+1. He don’t know binary search.
+ He doesn’t know binary search.
+
+2. She have completed the task.
+She has completed the task.
+
+3. They is learning algorithms.
+They are learning algorithms.
+
+
+COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain Binary Search algorithm
+
+Include:
+- Sorted array
+- Middle element
+- Divide search space
+- Time complexity
+
+
+The most important rule for Binary Search is that it only works on a sorted array. Whether it’s numbers in ascending 
+order or words in alphabetical order, the data must be organized.
+the algorithm looks at the middle element of the entire array.
+It compares that middle element to the target value you are looking for.
+It keeps dividing the search space until the item is found or the list runs out.
+Time Complexity is O(log n).
